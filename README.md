@@ -28,6 +28,4 @@
 - ARP Spoofing Detection Tool
 - Cyber Threat Dashboard
 
-📫 Contact:
-LinkedIn: Your LinkedIn URL
-Email: your_email@example.com
+
