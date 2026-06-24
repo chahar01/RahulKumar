@@ -19,7 +19,8 @@
 - Scapy
 
 📚 Certifications:
-- Juniper Networking
+- Cloud, Associate(JNCIA-Cloud)
+- Junos, Associate(JNCIA-Junos
 - Cyber Security Fundamentals
 
 🚀 Current Projects:
