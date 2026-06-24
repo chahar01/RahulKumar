@@ -24,8 +24,8 @@
 - Cyber Security Fundamentals
 
 🚀 Current Projects:
-- Smart Network Security Monitor
-- ARP Spoofing Detection Tool
-- Cyber Threat Dashboard
+- Cyber Shield X
+- QR Code Based Attendance System
+  
 
 
